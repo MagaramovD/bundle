@@ -7,5 +7,4 @@ This is my first web page created using GitHub Pages and Markdown.
 - Easy to use
 - Markdown support
 - Free hosting on GitHub
-
-[GitHub link](https://github.com)
+- Hello World
